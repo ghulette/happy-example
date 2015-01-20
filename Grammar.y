@@ -1,7 +1,6 @@
 {
 module Grammar where
 import Tokens
-import Char (isSpace,isAlpha,isDigit)
 }
 
 %name parseCalc
